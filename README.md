@@ -7,5 +7,5 @@
 ## Pertemuan kedua
 Daftar hadir Pemrograman Visual pertemuan kedua praktisi mengajar
 1. Muhammad Rizky Bachtiar
-1. ...
+2. Raka Irfansabil Efendi
 1. ...
